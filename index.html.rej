@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -7,6 +7,7 @@
+ </head>
+ <body>
+ <img src="pictures/ава.jpg">
++<img src="ава.jpg">
+ 	<pre>
+ <h3>Имя 		: Елена
+ <h6>Имя 		: Елена
